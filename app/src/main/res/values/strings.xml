@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuSinSaTest</string>
+    <string name="coupon">쿠폰</string>
+    <string name="all">전체</string>
+    <string name="sale_rate">%d\%%</string>
+    <string name="banner_count">%d/%d</string>
+</resources>
